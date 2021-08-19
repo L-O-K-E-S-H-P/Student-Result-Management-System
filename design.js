@@ -14,7 +14,7 @@ const data = [
         Percentage : "95.5 %"
     },
     {
-        name: "Ajay",
+        name: "Lucky",
         Maths:"90",
         Physics:"91",
         Chemistry : "92",
